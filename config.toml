@@ -2,10 +2,11 @@
 
 # this variable has to be set but it is not used
 # inside the templates (end in '/')
-base_url = "https://coderefinery.github.io/template-workshop-webpage/"
+base_url = "https://iio2025.github.io/"
+
 
 # When adapting the title, do not forget to also adjust base_url above
-title = "Replace this title in config.toml"
+title = "Innovations in immuno-oncology: from data to therapeutic insights"
 description = "Free workshop on git, testing, documentation, and more in a workshop - for researchers and scientists."
 
 # Whether to automatically compile all Sass files in the sass directory
